@@ -17,7 +17,7 @@ C# - SQL Bağlantısı İle Kullanıcı Login İşlemleri
 
 ![Screenshot_22](https://user-images.githubusercontent.com/79109512/208753780-2b74be04-46aa-440b-bf60-e8142a412e15.png)
 
-### Kullanacağımız tabloyu seçiyoruz:
+### Kullanacağımız veritabanını seçiyoruz:
 ![Screenshot_23](https://user-images.githubusercontent.com/79109512/208753797-92d61522-44d2-4531-b885-20cda01342ef.png)
 
 
