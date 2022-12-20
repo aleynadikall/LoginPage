@@ -1,0 +1,11 @@
+C:\Users\aleyy\Desktop\LoginPage\login_islemleri\login_islemleri\bin\Debug\login_islemleri.exe.config
+C:\Users\aleyy\Desktop\LoginPage\login_islemleri\login_islemleri\bin\Debug\login_islemleri.exe
+C:\Users\aleyy\Desktop\LoginPage\login_islemleri\login_islemleri\bin\Debug\login_islemleri.pdb
+C:\Users\aleyy\Desktop\LoginPage\login_islemleri\login_islemleri\obj\Debug\login_islemleri.csprojAssemblyReference.cache
+C:\Users\aleyy\Desktop\LoginPage\login_islemleri\login_islemleri\obj\Debug\login_islemleri.Form1.resources
+C:\Users\aleyy\Desktop\LoginPage\login_islemleri\login_islemleri\obj\Debug\login_islemleri.Properties.Resources.resources
+C:\Users\aleyy\Desktop\LoginPage\login_islemleri\login_islemleri\obj\Debug\login_islemleri.csproj.GenerateResource.cache
+C:\Users\aleyy\Desktop\LoginPage\login_islemleri\login_islemleri\obj\Debug\login_islemleri.csproj.CoreCompileInputs.cache
+C:\Users\aleyy\Desktop\LoginPage\login_islemleri\login_islemleri\obj\Debug\login_islemleri.exe
+C:\Users\aleyy\Desktop\LoginPage\login_islemleri\login_islemleri\obj\Debug\login_islemleri.pdb
+C:\Users\aleyy\Desktop\LoginPage\login_islemleri\login_islemleri\obj\Debug\login_islemleri.Form2.resources
